@@ -131,3 +131,6 @@ div.camp>input {
   width: calc(100% - 45px);
   transform: translateY(-14px);
 }
+div.camp input:focus-within{
+  background-color: white;
+}
