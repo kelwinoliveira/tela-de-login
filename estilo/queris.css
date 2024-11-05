@@ -6,6 +6,7 @@ body{
 }
   section#login{
     width: 80vw;
+    height:300px ;
   }
 section#login>div#imagem{
   float: left;
@@ -21,6 +22,7 @@ section#login>div#formulario{
 @media screen and (min-width:998px) {
   section#login{
     width: 950px;
+    height: 300px;
 
   }
   section#login> div#imagem{
@@ -36,4 +38,5 @@ section#login>div#formulario{
 body{
   background-image: linear-gradient(to top, #8B11EF,#2E10EF );
 }
+
 }
